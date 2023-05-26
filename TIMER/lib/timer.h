@@ -19,7 +19,7 @@
 //_________________ Functions prototypes ____________________________
 //___________________________________________________________________
 
-void init_TIM2		(void);
+void init_TIM2      (void);
 void init_pwm1_TIM2 (void);
 
 
